@@ -48,6 +48,4 @@ while True:
      print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
      if port == 65534:
        port = 1
-"
-
  https://raw.githubusercontent.com/BLACKHAT CYBERMAFIA/DDOS-Attack/master/ddos-attack.py#:~:text=import%20sys%0Aimport,65534%3A%0A%20%20%20%20%20%20%20port%20%3D%201
